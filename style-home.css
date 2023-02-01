@@ -1,0 +1,60 @@
+
+body{
+    
+}
+
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{ /*se copio a style-productos*/
+    width: 100%;
+}
+
+.principal{  /*se copio a style-productos*/
+    background: #cccccc;
+    padding: 20px;
+}
+.titulo-centralizado{
+    text-align: center; 
+    padding-left: 30px; /*Copiado del titulo principal */
+    font-weight: bold;
+}
+
+p{  /*se copio a style-productos*/
+    text-align: center;
+    background-color: #cccccc;
+}
+
+em strong{ /*se copio a style-productos*/
+    color: red;
+}
+
+#mision{ /*se copio a style-productos*/
+    font-size: 20px;
+}
+.diferencial{ /*se copio a style-productos*/
+    background: #ffffff;
+    padding: 30px;
+}
+
+
+.items{ /*se copio a style-productos*/
+    font-style: italic;
+    color: blue;
+}
+
+ul{ /*se copio a style-productos*/
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin-right: 15%
+        
+}
+
+
+.imagendiferencial{ /*se copio a style-productos*/
+    width: 30%;
+
+}
+
